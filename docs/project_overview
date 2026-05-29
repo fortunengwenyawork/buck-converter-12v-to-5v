@@ -1,0 +1,27 @@
+# Project Overview
+
+This project demonstrates the design and simulation of a 12 V to 5 V buck converter.
+
+Objectives:
+
+- Design a DC-DC step-down converter
+- Simulate operation using LTspice
+- Analyze output voltage behavior
+- Measure inductor current ripple
+- Verify switching-node operation
+- Document simulation results
+
+Tools Used:
+
+- LTspice
+- GitHub
+- KiCad 
+
+Key Results:
+
+- Output Voltage: 4.73 V
+- Switching Frequency: 500 kHz
+- Ripple Current: ~0.6 A peak-to-peak
+- Low output voltage ripple
+
+The project serves as my foundation for future PCB implementation and power electronics design work.
